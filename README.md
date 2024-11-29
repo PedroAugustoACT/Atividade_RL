@@ -1,5 +1,5 @@
 # Projeto: Agente Aleatório em Ambiente 2D
-
+## Equipe Mineradores
 Este projeto implementa um ambiente personalizado em uma grade 2D onde um agente executa ações aleatórias. O objetivo é demonstrar a interação entre um agente e o ambiente, criando a base para um sistema de aprendizagem por reforço.
 
 ---
