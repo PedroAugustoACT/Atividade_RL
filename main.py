@@ -1,6 +1,6 @@
 import pygame
 import numpy as np
-from PIL import Image
+
 
 # Configurações do ambiente
 WIDTH, HEIGHT = 500, 500 
